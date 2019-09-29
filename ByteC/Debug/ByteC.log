@@ -1,0 +1,5 @@
+﻿  byteC.c
+D:\Программирование\backend\C++\ByteC\ByteC\byteC.c(55,31): warning C4013:  malloc: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Программирование\backend\C++\ByteC\ByteC\byteC.c(30,10): warning C4101:  Lines: неиспользованная локальная переменная
+D:\Программирование\backend\C++\ByteC\ByteC\byteC.c(164,29): warning C4047:  !=: "int" отличается по уровням косвенного обращения от "void *"
+  ByteC.vcxproj -> D:\Программирование\backend\C++\ByteC\Debug\ByteC.exe
