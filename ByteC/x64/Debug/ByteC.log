@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\Ivan\Desktop\Source.c(56,31): warning C4013:  malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Ivan\Desktop\Source.c(56,73): warning C4312:  приведение типов: преобразование из "int" в "unsigned char *" большего размера
+C:\Users\Ivan\Desktop\Source.c(168,83): warning C4312:  приведение типов: преобразование из "int" в "char *" большего размера
+C:\Users\Ivan\Desktop\Source.c(172,11): warning C4477:  "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+C:\Users\Ivan\Desktop\Source.c(172,11): message :  рекомендуется использовать "%zd" в строке форматирования
+C:\Users\Ivan\Desktop\Source.c(31,10): warning C4101:  Lines: неиспользованная локальная переменная
+C:\Users\Ivan\Desktop\Source.c(185,30): warning C4047:  !=: "int" отличается по уровням косвенного обращения от "void *"
+  ByteC.vcxproj -> D:\Программирование\backend\C++\ByteC\x64\Debug\ByteC.exe

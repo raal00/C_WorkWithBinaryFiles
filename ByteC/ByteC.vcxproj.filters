@@ -23,9 +23,12 @@
     <None Include="output.bin">
       <Filter>Файлы ресурсов</Filter>
     </None>
+    <None Include="test.bin">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="byteC.c">
+    <ClCompile Include="C:\Users\Ivan\Desktop\Source.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
